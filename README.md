@@ -1,4 +1,4 @@
-### Learning something new daily!
+### Embrace the grind!
 
 <!--
 **bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
