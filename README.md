@@ -1,4 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=bananabread08.bananabread08)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08.bananabread08)
 
 ### Embrace the grind!
 
