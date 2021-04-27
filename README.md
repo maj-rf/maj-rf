@@ -1,5 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=bananabread08.bananabread08)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
+
 )
 
 ### Embrace the grind!
@@ -15,4 +15,6 @@ I'm in my mid-twenties and I realized I love programming more than what I do in 
 - ⚡ About Me: I am a gamer, mostly on my phone and my Nintendo Switch. I ~~hate~~ love gacha games (I'm not a whale, I am telling you). I love JRPGs in general. Huge fan of the Pokemon franchise and Monster Hunter. Hit me up if you want to co-op.
 
 My end-goal is to fulfill my career shift and get a Junior Developer job. :pray:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
 
