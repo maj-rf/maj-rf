@@ -1,7 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=bananabread08.bananabread08)
 
-)
-
 ### Embrace the grind!
 
 <!--
@@ -16,5 +14,7 @@ I'm in my mid-twenties and I realized I love programming more than what I do in 
 
 My end-goal is to fulfill my career shift and get a Junior Developer job. :pray:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight) </p>
+
 
