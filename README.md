@@ -8,12 +8,10 @@
 ### Embrace the grind!
 
 <!--
-**bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+**bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 I'm in my mid-twenties and I realized I love programming more than what I do in my day job. Got the courage to resign and go full-time (or use most of my time 😉) learning web-development under **The Odin Project**.
 
 - [x] 🔭 (Finished just in time. 01/31/21) I’m currently working on finishing the Foundations this month (January 2021) hopefully. I am excited to face the Fullstack Javascript course soon!
-
 ### More About Me:
 - Currently learning more about React in general and started reading about Test Driven Development. 
 - Currently working on my ~~non-existent~~ portfolio.
@@ -22,6 +20,8 @@ I'm in my mid-twenties and I realized I love programming more than what I do in 
 - 🎮: I am a gamer, mostly on my phone and my Nintendo Switch. I ~~hate~~ love gacha games (I'm not a whale, I am telling you). I love JRPGs in general. Huge fan of the Pokemon franchise and Monster Hunter. Hit me up if you want to co-op.
 
 My end-goal is to fulfill my career shift and get a fresh start as a Developer/Software Engineer.
+
+## Back from my July 2021 break and ready to grind and learn again especially the Backend of JS!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight)
