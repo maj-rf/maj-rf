@@ -13,7 +13,7 @@ I'm in my mid-twenties and I realized I love programming more than what I do in 
 
 - [x] 🔭 (Finished just in time. 01/31/21) I’m currently working on finishing the Foundations this month (January 2021) hopefully. I am excited to face the Fullstack Javascript course soon!
 ### More About Me:
-- Currently learning more about React in general and started reading about Test Driven Development. 
+- Currently learning more about React in general and started reading about Firebase. 
 - Currently working on my ~~non-existent~~ portfolio.
 - 📺: I love watching Anime and Kdramas though I don't binge-watch. Just one episode or two (or three++!) per day.  
 - 💪: Upon starting the TOP Curriculum, I had a lifestyle change. I workout (halfway through the pandemic times!), eat healthy, fixed my body-clock. I am taking care of my body and myself in general. I'm sure it's not a placebo. 
