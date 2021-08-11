@@ -17,7 +17,7 @@ I'm in my mid-twenties and I realized I love programming more than what I do in 
 - Currently working on my ~~non-existent~~ portfolio.
 - 📺: I love watching Anime and Kdramas though I don't binge-watch. Just one episode or two (or three++!) per day.  
 - 💪: Upon starting the TOP Curriculum, I had a lifestyle change. I workout (halfway through the pandemic times!), eat healthy, fixed my body-clock. I am taking care of my body and myself in general. I'm sure it's not a placebo. 
-- 🎮: I am a gamer, mostly on my phone and my Nintendo Switch. I ~~hate~~ love gacha games (I'm not a whale, I am telling you). I love JRPGs in general. Huge fan of the Pokemon franchise and Monster Hunter. Hit me up if you want to co-op.
+- 🎮: I am a gamer, mostly on my phone and my Nintendo Switch. I ~~hate~~ love gacha games (I'm not a whale, I am telling you). I love JRPGs in general. Huge fan of the Pokemon and Monster Hunter franchise.
 
 My end-goal is to fulfill my career shift and get a fresh start as a Developer/Software Engineer.
 
