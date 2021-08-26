@@ -13,15 +13,11 @@ I'm in my mid-twenties and I realized I love programming more than what I do in 
 
 - [x] 🔭 (Finished just in time. 01/31/21) I’m currently working on finishing the Foundations this month (January 2021) hopefully. I am excited to face the Fullstack Javascript course soon!
 ### More About Me:
-- Currently learning more about React in general and started reading about Firebase. 
-- Currently working on my ~~non-existent~~ portfolio.
-- 📺: I love watching Anime and Kdramas though I don't binge-watch. Just one episode or two (or three++!) per day.  
-- 💪: Upon starting the TOP Curriculum, I had a lifestyle change. I workout (halfway through the pandemic times!), eat healthy, fixed my body-clock. I am taking care of my body and myself in general. I'm sure it's not a placebo. 
-- 🎮: I am a gamer, mostly on my phone and my Nintendo Switch. I ~~hate~~ love gacha games (I'm not a whale, I am telling you). I love JRPGs in general. Huge fan of the Pokemon and Monster Hunter franchise.
+- 💪: Upon starting TOP, I had a lifestyle change. I workout (halfway through the pandemic times!), eat healthy, fixed my body-clock. I am taking care of my body and myself in general. I'm sure it's not a placebo. 
+- 🎮: I love playing games, mostly on my phone and my Nintendo Switch. I love JRPGs in general.
+- 📺: I enjoy reading mangas during my free time. 
 
 My end-goal is to fulfill my career shift and get a fresh start as a Developer/Software Engineer.
-
-## Back from my July 2021 break! Ready to grind and learn again especially the Backend of JS and improving my CSS skills!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight)
