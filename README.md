@@ -9,7 +9,7 @@
 
 <!--
 **bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-I'm in my mid-twenties and I realized I love programming more than what I do in my day job. Got the courage to resign and go full-time (or use most of my time 😉) learning web-development under **The Odin Project**.
+Self-taught Web Developer/Software Engineer. Learning WebDev under **The Odin Project**.
 
 - [x] 🔭 (Finished just in time. 01/31/21) I’m currently working on finishing the Foundations this month (January 2021) hopefully. I am excited to face the Fullstack Javascript course soon!
 ### More About Me:
