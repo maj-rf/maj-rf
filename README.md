@@ -15,7 +15,7 @@ Self-taught Web Developer/Software Engineer. Learning WebDev under **The Odin Pr
 ### More About Me:
 - 💪: Upon starting TOP, I had a lifestyle change. I workout (halfway through the pandemic times!), eat healthy, fixed my body-clock. I am taking care of my body and myself in general. I'm sure it's not a placebo. 
 - 🎮: I love playing games, mostly on my phone and my Nintendo Switch. I love JRPGs in general.
-- 📺: I enjoy reading mangas during my free time. 
+- 📺: I enjoy reading mangas and  watch TV series during my free time. 
 
 My end-goal is to fulfill my career shift and get a fresh start as a Developer/Software Engineer.
 
