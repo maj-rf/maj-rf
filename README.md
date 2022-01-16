@@ -17,6 +17,8 @@ Self-taught Web Developer/Software Engineer.
 
 My end-goal is to fulfill my career shift and get a fresh start as a Developer/Software Engineer.
 
+Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight)
 
