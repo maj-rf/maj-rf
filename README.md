@@ -11,12 +11,6 @@
 **bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 Self-taught Web Developer/Software Engineer.
 
-- [x] 🔭 (Finished just in time. 01/31/21) I’m currently working on finishing the Foundations this month (January 2021) hopefully. I am excited to face the Fullstack Javascript course of The Odin Project soon!
-### More About Me:
-- 💪: Upon starting TOP, I had a lifestyle change. I workout, eat healthy, and fixed my body-clock. I am taking care of my body and myself in general. I'm sure it's not a placebo. 
-- 🎮: I love playing games, mostly on my phone and my Nintendo Switch. I love JRPGs in general.
-- 📺: I enjoy reading mangas and  watch TV series during my free time. 
-
 My end-goal is to fulfill my career shift and get a fresh start as a Developer/Software Engineer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight)
