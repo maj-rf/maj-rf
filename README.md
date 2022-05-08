@@ -21,7 +21,7 @@
 <!--
 **bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 Self-taught Web Developer/Software Engineer.
-Currently learning ExpressJS!
+Currently learning NodeJS + ExpressJS + MongoDB!
 
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
