@@ -25,7 +25,7 @@ Currently learning NodeJS + ExpressJS + MongoDB!
 
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=7)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight)
 
 
