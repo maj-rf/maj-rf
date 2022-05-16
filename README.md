@@ -22,6 +22,9 @@ Currently learning NodeJS + ExpressJS + MongoDB!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## More About Me
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/) and check my main projects on my [Portfolio](https://bananabread08.github.io/portfolio/)
+
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=7)
