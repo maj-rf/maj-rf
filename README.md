@@ -1,6 +1,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=bananabread08.bananabread08)
 
+# Embrace the grind!
 
+<!--
+**bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
+Self-taught Web Developer/Software Engineer.
+Currently learning NodeJS + ExpressJS + MongoDB!
+
+## Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,14 +21,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-### Embrace the grind!
-
-<!--
-**bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
-Self-taught Web Developer/Software Engineer.
-Currently learning NodeJS + ExpressJS + MongoDB!
 
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
