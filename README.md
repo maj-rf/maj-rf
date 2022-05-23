@@ -5,6 +5,7 @@
 <!--
 **bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 Self-taught Web Developer/Software Engineer.
+Exploring the JavaScript ecosystem.
 Currently learning NodeJS + ExpressJS + MongoDB!
 
 ## Technologies and Tools
