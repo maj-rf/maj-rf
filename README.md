@@ -9,19 +9,19 @@ Exploring the JavaScript ecosystem.
 Currently learning NodeJS + ExpressJS + MongoDB!
 
 ## Technologies and Tools
-![JavaScript](https://img.shields.io/badge/javascript-6B5B95.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-6B5B95.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-6B5B95.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-6B5B95.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/react-6B5B95.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-6B5B95?style=for-the-badge&logo=styled-components&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-6B5B95.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6B5B95?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-6B5B95.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-6B5B95.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-6B5B95.svg?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/python-6B5B95?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-6B5B95.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6B5B95.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-6B5B95.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6B5B95.svg?style=plastic&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-6B5B95.svg?style=plastic&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/React-6B5B95.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-6B5B95?style=plastic&logo=styled-components&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-6B5B95.svg?style=plastic&logo=webpack&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-6B5B95?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-6B5B95.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-6B5B95.svg?style=plastic&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-6B5B95.svg?style=plastic&logo=firebase)
+![Python](https://img.shields.io/badge/Python-6B5B95?style=plastic&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-6B5B95.svg?style=plastic&logo=git&logoColor=white)
 
 ## More About Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/) and check my main projects on my [Portfolio](https://bananabread08.github.io/portfolio/).
