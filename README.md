@@ -9,7 +9,7 @@ Exploring the JavaScript ecosystem.
 
 Currently learning NodeJS + ExpressJS + MongoDB!
 
-Interested in learning: TypeScript, NextJS, and Remix.
+Interested in learning: TypeScript, NextJS, Tailwind, and Remix.
 
 ## Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-6B5B95.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
