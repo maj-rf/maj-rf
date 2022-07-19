@@ -7,9 +7,20 @@
 Self-taught Web Developer/Software Engineer.
 I personally love exploring the JavaScript ecosystem. I used to hate CSS, but now I learned to love and appreciate it (by learning of course)!
 
-Currently learning <strong> NodeJS + ExpressJS + MongoDB! </strong>
+Currently learning:
+<ul>
+ <li>NodeJS</li>
+ <li>ExpressJS</li>
+ <li>MongoDB!</li>
+</ul>
 
-Interested in learning: <strong> TypeScript, NextJS, Tailwind, and Remix. </strong>
+Interested in learning: 
+<ul>
+ <li>TypeScript</li>
+ <li>NextJS</li>
+ <li>Tailwind CSS</li>
+ <li>Remix</li>
+</ul>
 
 ## Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-6B5B95.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
