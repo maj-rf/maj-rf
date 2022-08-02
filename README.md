@@ -11,7 +11,8 @@ Currently learning:
 <ul>
  <li>NodeJS</li>
  <li>ExpressJS</li>
- <li>MongoDB!</li>
+ <li>MongoDB</li>
+ <li>MySQL</li>
 </ul>
 
 Interested in learning: 
@@ -20,6 +21,7 @@ Interested in learning:
  <li>NextJS</li>
  <li>Tailwind CSS</li>
  <li>Remix</li>
+ <li>PostgreSQL</li>
 </ul>
 
 ## Technologies and Tools
