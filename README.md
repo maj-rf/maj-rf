@@ -44,7 +44,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-majed-keene-ferm
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=7" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=9" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight" />
 </div>
 
