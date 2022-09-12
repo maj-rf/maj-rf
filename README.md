@@ -5,8 +5,7 @@
 <!--
 **bananabread08/bananabread08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 Self-taught Web Developer/Software Engineer.
-I personally love exploring the JavaScript ecosystem. I used to hate CSS, but now I learned to love and appreciate it.
-
+I personally love exploring the JavaScript ecosystem. CSS is fun!
 Currently learning:
 
 ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
