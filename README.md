@@ -39,7 +39,7 @@ Currently learning:
 ![Git](https://img.shields.io/badge/Git-6B5B95.svg?style=plastic&logo=git&logoColor=white)
 
 ## More About Me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/) and check my main projects on my [Portfolio](https://bananabread08.github.io/portfolio/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/) and check my main projects on my [Portfolio](https://maj-portfolio.vercel.app/).
 
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
