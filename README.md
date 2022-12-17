@@ -30,7 +30,10 @@ Currently learning:
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logoColor=white&logo=git&color=FA5F55)
 
 ## More About Me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/) and check my [Portfolio](https://maj-portfolio.vercel.app/) for my personal projects.
+Check my Portfolio and connect with me via LinkedIn!
+
+ <a href="https://maj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/"><img src="https://img.shields.io/badge/-My LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
