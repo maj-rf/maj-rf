@@ -7,7 +7,7 @@
 Self-taught Web Developer/Software Engineer.
 I personally love exploring the JavaScript/TypeScript ecosystem. CSS is fun!
 
-The Odin Project and Full Stack Open enjoyer.
+The Odin Project and Full Stack Open.
 
 Currently learning:
 
