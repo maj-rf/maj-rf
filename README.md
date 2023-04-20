@@ -11,9 +11,8 @@ The Odin Project and Full Stack Open.
 
 Currently learning:
 
-![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -21,15 +20,18 @@ Currently learning:
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=FA5F55)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=FA5F55)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=FA5F55)
-![SASS](https://img.shields.io/badge/-Sass-000?style=flat&logoColor=white&logo=sass&color=FA5F55)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=white&logo=typescript&color=FA5F55)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=white&logo=python&color=FA5F55)
+<br>
 ![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=white&logo=react&color=FA5F55)
+![NextJS](https://img.shields.io/badge/-NextJS-000?style=flat&logoColor=white&logo=next.js&color=FA5F55)
+![SASS](https://img.shields.io/badge/-Sass-000?style=flat&logoColor=white&logo=sass&color=FA5F55)
 ![styled components](https://img.shields.io/badge/-styled--components-000?style=flat&logoColor=white&logo=styled-components&color=FA5F55)
+<br>
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=flat&logoColor=white&logo=node.js&color=FA5F55)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=flat&logoColor=white&logo=express&color=FA5F55)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logoColor=white&logo=mongodb&color=FA5F55)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logoColor=white&logo=firebase&color=FA5F55)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=white&logo=python&color=FA5F55)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logoColor=white&logo=git&color=FA5F55)
 
 ## More About Me
 Check my Portfolio and connect with me via LinkedIn!
