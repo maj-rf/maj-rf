@@ -11,10 +11,11 @@ The Odin Project and Full Stack Open.
 
 Currently learning:
 
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white&color=FA5F55)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white&color=FA5F55)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=FA5F55)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white&color=FA5F55)
+![Threejs](https://img.shields.io/badge/ThreeJS-black?style=flat&logo=three.js&logoColor=white&color=FA5F55)
 
 ## Technologies and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=FA5F55)
@@ -34,7 +35,7 @@ Currently learning:
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logoColor=white&logo=firebase&color=FA5F55)
 
 ## More About Me
-Check my Portfolio and connect with me via LinkedIn!
+Check out my Portfolio and connect with me via LinkedIn!
 
  <a href="https://maj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat&logo=Google-Chrome&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/"><img src="https://img.shields.io/badge/-My LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -42,7 +43,7 @@ Check my Portfolio and connect with me via LinkedIn!
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=9" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=8" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight" />
 </div>
 
