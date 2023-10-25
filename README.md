@@ -16,6 +16,7 @@ Currently learning:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=FA5F55)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white&color=FA5F55)
 ![Threejs](https://img.shields.io/badge/ThreeJS-black?style=flat&logo=three.js&logoColor=white&color=FA5F55)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=white&color=FA5F55)
 
 ## Technologies and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=FA5F55)
