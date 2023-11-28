@@ -38,7 +38,7 @@ Currently learning:
 ## More About Me
 Check out my Portfolio and connect with me via LinkedIn!
 
- <a href="https://maj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+ <a href="https://maj-dev.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat&logo=Google-Chrome&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/ralph-majed-keene-fermin-601575231/"><img src="https://img.shields.io/badge/-My LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
