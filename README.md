@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=bananabread08.bananabread08)
+![](https://visitor-badge.laobi.icu/badge?page_id=maj-rf.maj-rf)
 
 # Embrace the grind!
 
@@ -11,8 +11,6 @@ The Odin Project and Full Stack Open.
 
 Currently learning:
 
-![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white&color=FA5F55)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white&color=FA5F55)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=FA5F55)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white&color=FA5F55)
 ![Threejs](https://img.shields.io/badge/ThreeJS-black?style=flat&logo=three.js&logoColor=white&color=FA5F55)
@@ -44,8 +42,8 @@ Check out my Portfolio and connect with me via LinkedIn!
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananabread08&theme=tokyonight&layout=compact&langs_count=8" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=bananabread08&show_icons=true&theme=tokyonight" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maj-rf&theme=tokyonight&layout=compact&langs_count=8" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=maj-rf&show_icons=true&theme=tokyonight" />
 </div>
 
 
