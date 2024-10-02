@@ -1,5 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=maj-rf.maj-rf)
-
 # Embrace the grind!
 
 <!--
@@ -33,8 +31,7 @@ Check out my Portfolio and connect with me via LinkedIn!
 Markdown Badges from: [ileriayo](https://ileriayo.github.io/markdown-badges/)
 
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maj-rf&theme=tokyonight&layout=compact&langs_count=8" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=maj-rf&show_icons=true&theme=tokyonight" />
+ <img class="img" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maj-rf&theme=tokyonight&layout=compact&langs_count=8" />
+ <img class="img" height=200 src="https://github-readme-stats.vercel.app/api?username=maj-rf&show_icons=true&theme=tokyonight" />
 </div>
-
 
